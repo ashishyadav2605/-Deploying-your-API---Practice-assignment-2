@@ -26,7 +26,7 @@ app.get('/login', (req, res) => {
     res.send({ 
 
       message: "Welcome, Admin!", 
-      data: ["Krishan Goyal", "John Doe"] 
+      data: ["Ashish Yadav", "John Doe"] 
     
     });
 
